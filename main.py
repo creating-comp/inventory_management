@@ -32,7 +32,7 @@ sales_data = pd.DataFrame({
 })
 
 def first():  # giriş formu
-    name = "Murat Ülker"
+    name = "Ali Demir"
     pword = "asd"
     windowKayit = tk.Tk()
     windowKayit.title("Ürün Satış Takip Sistemi")
